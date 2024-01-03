@@ -31,10 +31,13 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
 ## Usage
+<img width="1206" alt="Screen Shot 2024-01-02 at 8 12 33 PM" src="https://github.com/cmfyoung/Note-Taker/assets/150183426/eca8d8b8-86c5-4dca-9aad-9d92f2f774cb">
+<img width="1131" alt="Screen Shot 2024-01-02 at 8 12 46 PM" src="https://github.com/cmfyoung/Note-Taker/assets/150183426/6d405d6d-52f9-4b08-87ad-f3f05457e9eb">
 
 
 ## Tests
 
+N/A
 
 ## Credits
 Diego Struk Jaia during office hours and Dru Sanchez during a tutoring session
@@ -45,7 +48,7 @@ License used for this project. If you need help choosing a license, refer to htt
 
 ## Contact Github Repository : www.github.com/cmfyoung/Note-Taker
 
-## Website URL : n/a
+## Website URL : https://note-taker-0okd.onrender.com
 
 ## Author: Chris Young
 
