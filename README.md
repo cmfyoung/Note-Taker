@@ -40,7 +40,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 Diego Struk Jaia during office hours and Dru Sanchez during a tutoring session
 
 ## License
-MIT ![image](https://github.com/cmfyoung/Note-Taker/assets/150183426/9e3ca38c-461c-49d6-8de4-806eda169dd1)
+ ![image](https://github.com/cmfyoung/Note-Taker/assets/150183426/9e3ca38c-461c-49d6-8de4-806eda169dd1)
 License used for this project. If you need help choosing a license, refer to https://choosealicense.com/.
 
 ## Contact Github Repository : www.github.com/cmfyoung/Note-Taker
