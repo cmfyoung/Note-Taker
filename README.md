@@ -1,10 +1,10 @@
-Title
+##Title
 Note-Taker
 
-Description
+##Description
 Modified starter code to create an application called Note Taker that can be used to write and save notes. Utilizing Express.js back end while saving and retrieving note data from a JSON file.
 
-Table of Contents
+##Table of Contents
 User Story
 Acceptance Criteria
 Installation
@@ -12,10 +12,10 @@ Usage
 Credits
 License
 
-User Story
+##User Story
 AS A small business owner I WANT to be able to write and save notes SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-Acceptance Criteria
+##Acceptance Criteria
 GIVEN a note-taking application
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to a notes page
@@ -30,23 +30,23 @@ THEN that note appears in the right-hand column and a "New Note" button appears 
 WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
-Usage
+##Usage
 
 
-Tests
+##Tests
 
 
-Credits
+##Credits
 Diego Struk Jaia during office hours and Dru Sanchez during a tutoring session
 
-License
+##License
 MIT ![image](https://github.com/cmfyoung/Note-Taker/assets/150183426/9e3ca38c-461c-49d6-8de4-806eda169dd1)
 License used for this project. If you need help choosing a license, refer to https://choosealicense.com/.
 
 ##Contact Github Repository : www.github.com/cmfyoung/Note-Taker
 
-Website URL : n/a
+##Website URL : n/a
 
-Author: Chris Young
+##Author: Chris Young
 
-Email: cmfyoung7@gmail.com
+##Email: cmfyoung7@gmail.com
